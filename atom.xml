@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[M' blog]]></title>
+  <link href="http://hellomay.github.io/atom.xml" rel="self"/>
+  <link href="http://hellomay.github.io/"/>
+  <updated>2015-12-22T22:52:29+08:00</updated>
+  <id>http://hellomay.github.io/</id>
+  <author>
+    <name><![CDATA[redpanda]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Firstblog]]></title>
+    <link href="http://hellomay.github.io/blog/2015/12/22/firstblog/"/>
+    <updated>2015-12-22T22:26:25+08:00</updated>
+    <id>http://hellomay.github.io/blog/2015/12/22/firstblog</id>
+    <content type="html"><![CDATA[<h1>终于搞定了</h1>
+
+<h2>在这试试吧。</h2>
+]]></content>
+  </entry>
+  
+</feed>
