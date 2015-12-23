@@ -4,7 +4,7 @@
   <title><![CDATA[M' blog]]></title>
   <link href="http://hellomay.github.io/atom.xml" rel="self"/>
   <link href="http://hellomay.github.io/"/>
-  <updated>2015-12-22T22:52:29+08:00</updated>
+  <updated>2015-12-23T09:55:38+08:00</updated>
   <id>http://hellomay.github.io/</id>
   <author>
     <name><![CDATA[redpanda]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Firstblog]]></title>
+    <title type="html"><![CDATA[firstblog]]></title>
     <link href="http://hellomay.github.io/blog/2015/12/22/firstblog/"/>
     <updated>2015-12-22T22:26:25+08:00</updated>
     <id>http://hellomay.github.io/blog/2015/12/22/firstblog</id>
